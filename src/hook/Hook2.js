@@ -36,6 +36,7 @@ function Hook2() {
             <button style={{padding: "5px 10px", margin: "10px"}} onClick={()=> setRes(a*b)}>*</button>
             <button style={{padding: "5px 10px", margin: "10px"}} onClick={()=> setRes((a/b).toFixed(2))}>/</button>
             <h2>Result: {res}</h2>
+            <h1>New Update</h1>
         </div>
     )
 }
