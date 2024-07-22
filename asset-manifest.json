@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/day1-react/static/js/main.3c50d010.js",
+    "main.js": "/day1-react/static/js/main.6951ad2c.js",
     "index.html": "/day1-react/index.html",
-    "main.3c50d010.js.map": "/day1-react/static/js/main.3c50d010.js.map"
+    "main.6951ad2c.js.map": "/day1-react/static/js/main.6951ad2c.js.map"
   },
   "entrypoints": [
-    "static/js/main.3c50d010.js"
+    "static/js/main.6951ad2c.js"
   ]
 }
